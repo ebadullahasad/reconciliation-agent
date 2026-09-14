@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.db
+.env
+backend/uploads/statements/*
+backend/uploads/invoices/*
+!backend/uploads/statements/.gitkeep
+!backend/uploads/invoices/.gitkeep
+
+node_modules/
+.next/
